@@ -1,0 +1,203 @@
+/* _________home.jsx________ */
+.texts {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  background: #fff8f0;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.texts h2 {
+  font-size: 2.5rem;
+  color: #d35400;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.texts p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 15px;
+}
+
+.texts p.intro {
+  font-style: italic;
+}
+
+.texts p.note {
+  font-weight: 500;
+}
+
+.texts p.cta {
+  font-weight: bold;
+  color: #e67e22;
+}
+
+
+
+
+.cart-container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	padding: 50px 50px;
+	justify-content: center;
+	align-items: center;
+}
+.carts {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 50px;
+}
+
+/* _____________DishCard.jsx_____________ */
+
+.dish-card02 {
+	padding: 20px 30px ;
+	border-radius: 20px;
+	background: linear-gradient(135deg, #ffecd2, #f09070);	transition: all 0.5s ease;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	box-shadow: 3px 4px 10px;
+}
+.dish-card02:hover {
+	transform: scale(1.05);
+}
+.dish-card02 p {
+	width: 350px;
+	color: rgb(132, 132, 133);
+}
+.dish-card02 p:hover {
+	color: brown;
+}
+.dish-card02 h2,h4 {
+	width: 250px;
+	color: rgb(70, 70, 70);
+}
+.dish-card02 img {
+	border-radius: 10px;
+}
+.dish-card02 button {
+	width: 50%;
+	padding: 8px;
+	border-radius: 15px;
+	border: none;
+	background-color: #efded0;
+	transition: all 0.5s ease;
+	color: #8a8a8a;
+}
+.dish-card02 button:hover {
+	color: #000000;
+	transform: scale(1.1);
+	background-color: #f09070;
+	box-shadow: 3px 2px 10px;
+}.dish-card02 button:active {
+	transition: all 0.2s ease;
+	color: #393939;
+	transform: scale(1.05);
+	background-color: #f1bead;
+	box-shadow: 3px 2px 10px;
+
+}
+
+@media (max-width: 580px) {
+	.dish-card02 {
+		padding: 5px 10px ;
+		border-radius: 20px;
+		background: linear-gradient(135deg, #ffecd2, #f09070);	transition: all 0.5s ease;
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+		box-shadow: 3px 4px 10px;
+	}
+	.dish-card02 p {
+		width: 150px;
+		color: rgb(132, 132, 133);
+	}
+	
+	.dish-card02 img {
+		width: 130px;
+	}
+
+}
+
+
+/* _______contact.jsx_________ */
+
+.contact-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.contact-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+  font-size: 16px;
+}
+
+.contact-form button {
+  padding: 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    padding: 15px;
+    margin: 30px auto;
+  }
+
+  .contact-form input,
+  .contact-form textarea {
+    font-size: 14px;
+  }
+
+  .contact-form button {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-container {
+    padding: 10px;
+    margin: 20px auto;
+  }
+}
