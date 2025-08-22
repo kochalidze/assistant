@@ -52,15 +52,15 @@
 	gap: 20px;
 	list-style: none;
 }
-.footer-ul li, p {
+.footer-ul .link, p {
 	color: rgb(116, 116, 116);
 	transition: all 0.5s ease;
 }
-.footer-ul li:hover {
+.footer-ul .link:hover {
 	color: rgb(48, 48, 48);
 	text-decoration: underline;
 }
-.footer-ul li:active {
+.footer-ul .link:active {
 	color: rgb(209, 209, 209);
 	transition: all 0.1s ease;
 }

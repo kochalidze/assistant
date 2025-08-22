@@ -44,7 +44,7 @@ const object = [
     "name": "Veggie Burger",
     "category": "Burgers",
     "price": 6.99,
-    "image": "https://example.com/images/veggie-burger.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.tYPcBnTxuEEyOHt6NAbCQAHaE8?pid=Api&P=0&h=220",
     "description": "Plant-based patty with fresh veggies, avocado, and spicy sauce."
   },
   {
@@ -52,7 +52,7 @@ const object = [
     "name": "Caesar Salad",
     "category": "Salads",
     "price": 6.49,
-    "image": "https://example.com/images/caesar-salad.jpg",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.8UagT3WWGxruvIOqJTCPeQHaE8?pid=Api&P=0&h=220",
     "description": "Crisp romaine lettuce tossed with parmesan, croutons, and Caesar dressing."
   },
   {
@@ -60,7 +60,7 @@ const object = [
     "name": "Greek Salad",
     "category": "Salads",
     "price": 6.99,
-    "image": "https://example.com/images/greek-salad.jpg",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.w3jcSm8bYofBoMCDQ4jtyQHaFE?pid=Api&P=0&h=220",
     "description": "Refreshing salad with cucumber, tomato, feta cheese, olives, and olive oil."
   },
   {
@@ -68,7 +68,7 @@ const object = [
     "name": "Cobb Salad",
     "category": "Salads",
     "price": 7.49,
-    "image": "https://example.com/images/cobb-salad.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.aZj5hsXwMmNMXtIw7JQ6RwHaE7?pid=Api&P=0&h=220",
     "description": "Mixed greens with grilled chicken, bacon, avocado, egg, and blue cheese."
   },
   {
@@ -76,7 +76,7 @@ const object = [
     "name": "Spaghetti Carbonara",
     "category": "Pasta",
     "price": 9.99,
-    "image": "https://example.com/images/carbonara.jpg",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.YLRgZ2i9mHrq5qz5jHJDOAHaE8?pid=Api&P=0&h=220",
     "description": "Italian pasta with eggs, parmesan cheese, pancetta, and black pepper."
   },
   {
@@ -84,7 +84,7 @@ const object = [
     "name": "Lasagna",
     "category": "Pasta",
     "price": 11.49,
-    "image": "https://example.com/images/lasagna.jpg",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.VyAzubaFqlNdzW4EAQar6AHaEc?pid=Api&P=0&h=220",
     "description": "Layers of pasta with beef ragu, bechamel sauce, and melted cheese."
   },
   {
@@ -92,7 +92,7 @@ const object = [
     "name": "Fettuccine Alfredo",
     "category": "Pasta",
     "price": 10.49,
-    "image": "https://example.com/images/fettuccine-alfredo.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.pS7UqzvDTOXY5KuacEHAcQHaE6?pid=Api&P=0&h=220",
     "description": "Creamy Alfredo sauce with parmesan cheese over fettuccine pasta."
   },
   {
@@ -100,7 +100,7 @@ const object = [
     "name": "Grilled Salmon",
     "category": "Seafood",
     "price": 14.99,
-    "image": "https://example.com/images/grilled-salmon.jpg",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.fheAIiZm-ASUtmFZ8_AyDgAAAA?pid=Api&P=0&h=220",
     "description": "Fresh salmon fillet grilled to perfection with lemon butter sauce."
   },
   {
@@ -108,7 +108,7 @@ const object = [
     "name": "Fried Shrimp",
     "category": "Seafood",
     "price": 12.49,
-    "image": "https://example.com/images/fried-shrimp.jpg",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.0OkAH98YSCS6MbSiSRnvdwHaE7?pid=Api&P=0&h=220",
     "description": "Crispy breaded shrimp served with tartar sauce and lemon wedges."
   },
   {
@@ -116,7 +116,7 @@ const object = [
     "name": "Chocolate Cake",
     "category": "Desserts",
     "price": 4.99,
-    "image": "https://example.com/images/chocolate-cake.jpg",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.EH61MhxlPzlSlbABSSVLawHaE8?pid=Api&P=0&h=220",
     "description": "Rich and moist chocolate sponge layered with creamy chocolate frosting."
   },
   {
@@ -124,7 +124,7 @@ const object = [
     "name": "Cheesecake",
     "category": "Desserts",
     "price": 5.49,
-    "image": "https://example.com/images/cheesecake.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.fb_64SfgJ0Xx-wsbRJ20wwHaEK?pid=Api&P=0&h=220",
     "description": "Creamy cheesecake with a buttery biscuit base, topped with strawberry glaze."
   },
   {
@@ -132,7 +132,7 @@ const object = [
     "name": "Ice Cream Sundae",
     "category": "Desserts",
     "price": 3.99,
-    "image": "https://example.com/images/ice-cream-sundae.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.t0JqV4RWT8r4MVjwfPPmuAHaE8?pid=Api&P=0&h=220",
     "description": "Vanilla ice cream topped with chocolate syrup, nuts, and whipped cream."
   },
   {
@@ -140,7 +140,7 @@ const object = [
     "name": "Pancakes",
     "category": "Breakfast",
     "price": 5.99,
-    "image": "https://example.com/images/pancakes.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.kuyFMjx_YJVzX6RKqVYWwQHaE9?pid=Api&P=0&h=220",
     "description": "Fluffy pancakes served with maple syrup and butter."
   },
   {
@@ -148,7 +148,7 @@ const object = [
     "name": "Omelette",
     "category": "Breakfast",
     "price": 4.49,
-    "image": "https://example.com/images/omelette.jpg",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.nq_bQTn3cdbzCYWpnK0hFAHaEr?pid=Api&P=0&h=220",
     "description": "Egg omelette stuffed with cheese, bell peppers, and mushrooms."
   },
   {
@@ -156,7 +156,7 @@ const object = [
     "name": "Fresh Orange Juice",
     "category": "Drinks",
     "price": 2.99,
-    "image": "https://example.com/images/orange-juice.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Q_fVFQyxgraJLFrGLNNvxAHaFD?pid=Api&P=0&h=220",
     "description": "Refreshing juice made from freshly squeezed oranges."
   }
 ];
